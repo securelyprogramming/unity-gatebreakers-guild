@@ -1,0 +1,69 @@
+{
+  "art": {
+    "accent": "#e5a5f1",
+    "kind": "original-vector",
+    "motif": "Trap gauntlet against an invading gate",
+    "provenance": "Repository-native SVG authored for this game; no paid source artwork.",
+    "sourceSha256": "694aa400b30799338c0c977dc92434d99fb72e5282978f640d826afb53472fbc"
+  },
+  "assets": {
+    "icon-128.png": {
+      "bytes": 17790,
+      "sha256": "f51a2e7d8e22e4d75c73cd759cae13c882ea574565e8085b6c688cdd08c78e1d"
+    },
+    "icon-16.png": {
+      "bytes": 849,
+      "sha256": "c7a4378a52a9e95897e05c2254a550c1f37bb5e6603fd70d50fb2a9f221378bc"
+    },
+    "icon-256.png": {
+      "bytes": 48198,
+      "sha256": "96bdb502676f5cf7b998ada1d82c65f89dda3b468a3457e508e432489bce0428"
+    },
+    "icon-32.png": {
+      "bytes": 2267,
+      "sha256": "aa94c2a99a7e7e598fb0476ab77b7110c2a74b65631d647a036b114a75d94cd4"
+    },
+    "icon-512.png": {
+      "bytes": 127091,
+      "sha256": "f082150dfedf8a3b603ae824e24267c6fea8acf73e5488c09b564ce49d1747b9"
+    },
+    "icon-64.png": {
+      "bytes": 6556,
+      "sha256": "5b40edde56a0f61eb0e80d5611211fb8311c6b40d27237ba677505e90d284535"
+    },
+    "icon.bmp": {
+      "bytes": 196662,
+      "sha256": "36d1b78acaf29a66f40fe5390b49ed9a44a7382dab404bb64ea0672d25a40844"
+    },
+    "icon.icns": {
+      "bytes": 594482,
+      "sha256": "f0f992dce2d1eaf890f4d07e092fe98329249fed62d264064e62036a7a8f17d7"
+    },
+    "icon.ico": {
+      "bytes": 82440,
+      "sha256": "b95c707093e8619e031cb4f5669984c550a083700689d277ef9e5927563f8f78"
+    },
+    "icon.png": {
+      "bytes": 249980,
+      "sha256": "c57c2681f83990ddf3ea71800f23999aa263978c0cfdfaaead3101e14bea5566"
+    },
+    "source.png": {
+      "bytes": 252597,
+      "sha256": "694aa400b30799338c0c977dc92434d99fb72e5282978f640d826afb53472fbc"
+    },
+    "source.svg": {
+      "bytes": 1481,
+      "sha256": "20f101b554d8406cb64fa22d2eed07e29159b2ca06accff5c9a18ab602c032d0"
+    }
+  },
+  "gameId": "gatebreakers-guild",
+  "installs": [
+    {
+      "asset": "source.png",
+      "path": "Assets/Editor/Branding/GameAppIcon.png"
+    }
+  ],
+  "pipeline": "securelyprogramming/game-workbench/scripts/game-icons.py",
+  "schemaVersion": 1,
+  "scope": "Application icons only; store capsules and platform release certification are separate."
+}

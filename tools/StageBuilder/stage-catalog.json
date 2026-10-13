@@ -15,16 +15,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/gatebreakers-guild/2026-10-13/gameplay-chapter1.png",
-          "bytes": 189605,
-          "sha256": "f5d19b65bea0c90fb952f0d76c007a8eb01a97a3402ebfb577b53154fefd495e",
+          "path": "Portfolio/Previews/polish/2026-10-13/gatebreakers-guild/gameplay-chapter1.png",
+          "bytes": 207493,
+          "sha256": "61d95b6b3411f1011b7b3725e8f9c6da727f905d32dff47d5ed495df062341df",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
         "Pip opens the guild workshop just as the first gate fractures. Bora needs traps that survive more than a demonstration.",
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter1, chapter 1, simulation tick 240.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: chapter1, chapter 1, simulation tick 240.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
@@ -41,16 +41,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/gatebreakers-guild/2026-10-13/gameplay-chapter2.png",
-          "bytes": 206037,
-          "sha256": "c6da035f2d6c61f462b1e1c1654e7c6cc970f7841e9d5270ad16d241623ee4c3",
+          "path": "Portfolio/Previews/polish/2026-10-13/gatebreakers-guild/gameplay-chapter2.png",
+          "bytes": 224288,
+          "sha256": "17c953f76613d934d9b6d72f746758edc0932f8c0bd7c0b515c9367a65f48173",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
         "Two roads bring two waves. Tess asks the guild to trade isolated heroics for a planned defense.",
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter2, chapter 2, simulation tick 242.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: chapter2, chapter 2, simulation tick 242.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
@@ -67,16 +67,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/gatebreakers-guild/2026-10-13/gameplay-chapter3.png",
-          "bytes": 206801,
-          "sha256": "9076f8275bfb6caba812b65c6d8067914dc09daa1e9d326987cab4dc54708f22",
+          "path": "Portfolio/Previews/polish/2026-10-13/gatebreakers-guild/gameplay-chapter3.png",
+          "bytes": 225170,
+          "sha256": "184bd1c16e746fd3dfabbe1de919f937b0ca932d620bdce89975189c3ef85e3c",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
         "The breach will seal only if the portal stands through the last assault.",
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter3, chapter 3, simulation tick 242.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: chapter3, chapter 3, simulation tick 242.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
@@ -93,16 +93,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/gatebreakers-guild/2026-10-13/gameplay-menu.png",
-          "bytes": 175521,
-          "sha256": "4499fc0554adde2e3337dffae1ed5d2a3181e1e734b92f8adc2062ef3dd1d7c6",
+          "path": "Portfolio/Previews/polish/2026-10-13/gatebreakers-guild/gameplay-menu.png",
+          "bytes": 175208,
+          "sha256": "66f0800f2cef0847fac8c2fc0ff829c74844138aeda23cf87f92831431748dd2",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind menu, chapter 1, simulation tick 0.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: menu, chapter 1, simulation tick 0.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -116,16 +116,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/gatebreakers-guild/2026-10-13/gameplay-story.png",
-          "bytes": 191870,
-          "sha256": "f556bded3d513de55284153053bfde804d63e2c372aa3526380a5acbada0ad6f",
+          "path": "Portfolio/Previews/polish/2026-10-13/gatebreakers-guild/gameplay-story.png",
+          "bytes": 191873,
+          "sha256": "bba07942d0f4efccaedf979ca024932bddace0fcc725719e6ba8cce1ffe477f0",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story, chapter 1, simulation tick 0.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: story, chapter 1, simulation tick 0.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -139,16 +139,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/gatebreakers-guild/2026-10-13/gameplay-victory1.png",
-          "bytes": 219545,
-          "sha256": "dd3d5c54acee75987b90de730eec2df7af537b4b4019f82fd1f0c7cd935e9b78",
+          "path": "Portfolio/Previews/polish/2026-10-13/gatebreakers-guild/gameplay-victory1.png",
+          "bytes": 233011,
+          "sha256": "a40722d292f70271ce276b79707c3d6f083d2632949a5ddd821fd2dc0786c010",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory1, chapter 1, simulation tick 1215.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: victory1, chapter 1, simulation tick 1215.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -162,16 +162,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/gatebreakers-guild/2026-10-13/gameplay-story2.png",
-          "bytes": 190646,
-          "sha256": "9da164399cc184b0e94351f88de8dbafff4b4579984e80a4f8e06e2c6b11c01f",
+          "path": "Portfolio/Previews/polish/2026-10-13/gatebreakers-guild/gameplay-story2.png",
+          "bytes": 191164,
+          "sha256": "1e6e8f1b969ab28a846886d023e21c898c5d4e8d144481a4eeeacd694ce95edb",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story2, chapter 2, simulation tick 2.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: story2, chapter 2, simulation tick 2.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -185,16 +185,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/gatebreakers-guild/2026-10-13/gameplay-victory2.png",
-          "bytes": 239622,
-          "sha256": "b594b0e6fd62251b63eb9799a96bba00c396d21f1a811324e4a1bb4fd32c52d0",
+          "path": "Portfolio/Previews/polish/2026-10-13/gatebreakers-guild/gameplay-victory2.png",
+          "bytes": 253024,
+          "sha256": "9fa55cf1ceca4840f2abdac59ff00c19078a0b0dd1f5ceaf07e07f7ce2fe41fd",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory2, chapter 2, simulation tick 1767.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: victory2, chapter 2, simulation tick 1767.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -208,16 +208,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/gatebreakers-guild/2026-10-13/gameplay-story3.png",
-          "bytes": 186279,
-          "sha256": "4b5a8baa5e8f49fc6736e34af640c18bc76fdc6e38c68d67c4d2bc40513a532b",
+          "path": "Portfolio/Previews/polish/2026-10-13/gatebreakers-guild/gameplay-story3.png",
+          "bytes": 187266,
+          "sha256": "c67a02cbc8c57d1af3145e836508c77593a680d618d82fceabe71a2455ae7757",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story3, chapter 3, simulation tick 2.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: story3, chapter 3, simulation tick 2.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -231,16 +231,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/gatebreakers-guild/2026-10-13/gameplay-victory3.png",
-          "bytes": 250196,
-          "sha256": "680b554e691af356a129b72f5aeec58f09072420b88f7c438479d4d96a301792",
+          "path": "Portfolio/Previews/polish/2026-10-13/gatebreakers-guild/gameplay-victory3.png",
+          "bytes": 261362,
+          "sha256": "0819dc91f4ebfe3680887004948b98dc204b54b6836dc2161dd92ee7de987e43",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory3, chapter 3, simulation tick 2425.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: victory3, chapter 3, simulation tick 2425.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -254,16 +254,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/gatebreakers-guild/2026-10-13/gameplay-finale.png",
-          "bytes": 217521,
-          "sha256": "4354f925a6dc9eb32be8b51f18ec806702ba7b9a484b043a4b05a7c8146945cb",
+          "path": "Portfolio/Previews/polish/2026-10-13/gatebreakers-guild/gameplay-finale.png",
+          "bytes": 219038,
+          "sha256": "030ebd2a01b63df14b3e26de5030e6351555d5f77b8dd1fdb63728d25af0d35f",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind finale, chapter 3, simulation tick 2425.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: finale, chapter 3, simulation tick 2425.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
