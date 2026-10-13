@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "gatebreakers-guild",
+  "title": "Gatebreakers Guild",
+  "engine": "Unity",
+  "family": "Cooperative trap defense",
+  "projectPath": "Game",
+  "gameType": "3d-game",
+  "description": "Place proximity traps, firing towers and barricades, fight orc waves, and protect a guild portal. Three-chapter development prototype; controller, multiplayer, platform and Steam release acceptance are tracked separately.",
+  "links": {
+    "repository": "https://github.com/securelyprogramming/unity-gatebreakers-guild",
+    "websiteRepository": null,
+    "website": null,
+    "jira": null
+  },
+  "builder": {
+    "openScript": null,
+    "guide": "unity-gatebreakers-guild/tools/StageBuilder/README.md"
+  },
+  "catalog": "unity-gatebreakers-guild/tools/StageBuilder/stage-catalog.json"
+}

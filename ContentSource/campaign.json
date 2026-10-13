@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "gatebreakers-guild",
+  "title": "Gatebreakers Guild",
+  "mode": "gatebreakers-guild",
+  "genre": "cooperative-trap-defense",
+  "brief": "Place spike traps, barricades and bolt towers, then fight orc waves together to protect the portal.",
+  "seed": 397,
+  "difficulty": 1,
+  "repository": "https://github.com/securelyprogramming/unity-gatebreakers-guild",
+  "folder": "unity-gatebreakers-guild",
+  "engine": "Unity",
+  "engineVersion": "6000.6.0f1",
+  "project": "Game",
+  "targetPlatforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "storeTarget": "Steam premium PC",
+  "players": "1–4 LAN cooperative players; local solo campaign",
+  "accent": "#a4b862",
+  "setting": "fortress",
+  "enemy": "orc",
+  "cast": [
+    {
+      "name": "Pip Ember",
+      "role": "trapwright"
+    },
+    {
+      "name": "Bora",
+      "role": "gate knight"
+    },
+    {
+      "name": "Tess",
+      "role": "alchemist"
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Guild Gate",
+      "story": "Pip opens the guild workshop just as the first gate fractures. Bora needs traps that survive more than a demonstration.",
+      "layoutSeed": 397
+    },
+    {
+      "number": 2,
+      "title": "Two Roads to Trouble",
+      "story": "Two roads bring two waves. Tess asks the guild to trade isolated heroics for a planned defense.",
+      "layoutSeed": 570
+    },
+    {
+      "number": 3,
+      "title": "The Breach",
+      "story": "The breach will seal only if the portal stands through the last assault.",
+      "layoutSeed": 743
+    }
+  ],
+  "status": "development; build, gameplay, physical controller, multi-machine LAN and Steam release acceptance tracked separately",
+  "inspiration": "Original characters, names, story and code; genre references are design inspiration only."
+}
